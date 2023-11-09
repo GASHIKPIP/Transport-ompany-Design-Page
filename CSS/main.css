@@ -1,0 +1,66 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2, h3, p {
+	font-family: 'Heebo', sans-serif;
+}
+
+body {
+	background: #062a74;
+}
+
+.teh-con {
+	height: 730px;
+	background: url(../img/oblojka.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.cards {
+	width: 70%;
+	padding-top: 630px;
+	margin: auto;
+	max-width: 1389px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.svg {
+	padding-top: 10px;
+	margin-left: 20px;
+	width: 100px;
+}
+
+.card_h1 {
+	padding-top: 15px;
+	margin-left: 20px;
+	color: #062a74;
+	font-size: 30px;
+}
+
+.card {
+	width: 300px;
+	background: white;
+}
+
+.card_p {
+	padding-left: 20px;
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+
+.blue_p {
+	margin-top: 40px;
+	color: white;
+	font-size: 25px;
+}
+
+span {
+	text-decoration: underline;
+}
+
+a {
+	color: white;
+}
